@@ -31,8 +31,9 @@ Developed by: Ashwin Kumar .M
 RegisterNumber: 212225040033
 */
 ```
-(ii) To find the LU Decomposition of a matrix
 ```
+(ii) To find the LU Decomposition of a matrix
+
 import numpy as np
 from scipy.linalg import lu_factor, lu_solve
 A = np.array(eval(input()))
