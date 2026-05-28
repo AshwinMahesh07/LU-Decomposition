@@ -31,7 +31,6 @@ Developed by: Ashwin Kumar .M
 RegisterNumber: 212225040033
 */
 ```
-```
 (ii) To find the LU Decomposition of a matrix
 
 import numpy as np
